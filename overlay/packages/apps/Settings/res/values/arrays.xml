@@ -25,4 +25,5 @@
         <item>-1</item>
         <item>-1</item>
     </integer-array>
+    <string name="spark_maintainer">KangMonkey</string>
 </resources>
